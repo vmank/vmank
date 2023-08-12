@@ -11,5 +11,5 @@ Hi, I'm Byron, a Web Developer currently located and employed in Greece. I am pa
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=vmank&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vmank&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vmank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
