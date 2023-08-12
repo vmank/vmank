@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Hi, I'm Byron, a Web Developer currently located and employed in Greece. I am passionate about technology and excited about what this technological era has yet to offer. 
+Hi, I'm Byron, a Web Developer currently located and employed in Greece. I am passionate about technology and excited about what this technological era has yet to offer. In my ongoing journey through the world of web development, I've found great satisfaction in turning various visions into user-friendly digital experiences.
 
 
 ### 🌐 Socials:
