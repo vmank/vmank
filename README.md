@@ -7,7 +7,7 @@ Hi, I'm Byron, a Web Developer currently located and employed in Greece. I am pa
 
 
 ### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23011627.svg?logo=redux&logoColor=764abc) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23011627.svg?logo=php&logoColor=8993be)
+![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23011627.svg?logo=redux&logoColor=764abc) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black) ![PHP](https://img.shields.io/badge/php-474a8a.svg?logo=php&logoColor=8993be)
 
 
 ### 📊 GitHub Stats:
